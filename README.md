@@ -1,5 +1,5 @@
 # Stock-Trading-Summary-Statistics-Generator
-### *Original dataset (found in Resources folder) onto which composed VBA Script was applied has not been fully uploaded due to file size complications*
+### *Original dataset (found in Resources folder) which composed VBA Script was applied to has not been fully uploaded due to file size complications*
 
 ## Screenshots
 
