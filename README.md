@@ -1,5 +1,5 @@
-# VBA-Challenge
-### *Original dataset (founded in Resources folder) onto which composed VBA Script was applied has not been fully uploaded due to file size complications*
+# Stock-Trading-Summary-Statistics-Generator
+### *Original dataset (found in Resources folder) onto which composed VBA Script was applied has not been fully uploaded due to file size complications*
 
 ## Screenshots
 
