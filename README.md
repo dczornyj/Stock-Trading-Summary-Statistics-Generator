@@ -1,4 +1,5 @@
 # VBA-Challenge
+### *Original dataset (founded in Resources folder) onto which composed VBA Script was applied has not been fully uploaded due to file size complications*
 
 ## Screenshots
 
